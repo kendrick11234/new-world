@@ -6,8 +6,7 @@ kkr
 gt
 pbks
 srh
-:wq
-:wq
+
 
 
 
